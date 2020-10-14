@@ -1,10 +1,14 @@
 import React, {Component}  from 'react';
+import cell from '../images/0.png';
+import Board from '../components/Board.js';
 
 
 class  Cell extends Component {
 
 render(){
-  return();
+  return(
+    <div>Cell</div>
+  );
   }
 
 }
